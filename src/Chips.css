@@ -1,0 +1,15 @@
+.Chips button {
+  padding: 15px 45px;
+  background-color: #036;
+  color: #fff;
+  margin: 25px auto;
+}
+.chip {
+  background-image: url(./static/media/chips.jpg);
+  background-repeat: no-repeat;
+  background-size: 80px auto;
+  width:80px;
+  height:120px;
+  position: absolute;
+  z-index: 1;
+}

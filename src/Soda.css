@@ -1,0 +1,6 @@
+.Soda {
+  background-image: url(./static/media/soda-pop-images-165781-2189268.jpg);
+  background-repeat:repeat-x;
+  background-position: 0 50px;
+  min-height: 800px;
+}

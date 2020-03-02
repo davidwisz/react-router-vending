@@ -1,0 +1,16 @@
+.NavBar {
+  background-color: #666;
+  opacity: .5;
+  margin-bottom: 30px;
+  width: 100%;
+  display: block;
+}
+.NavBar a {
+  padding: 10px;
+  display: inline-block;
+  color: #fff;
+}
+.NavBar a.active {
+  color: #ccc;
+  background-color: #000;
+}
